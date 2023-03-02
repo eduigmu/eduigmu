@@ -156,7 +156,7 @@ cp.hide("Text_true_4");\
 cp.hide("Text_true_5");\
 cp.show("Text_true_6");\
 cp.hide("Text_true_7");\
-cp.hide("Text_true_8");};if ((cp.ho(\'q\') == cp.ho(\'6\')))\
+cp.hide("Text_true_8");};if ((cp.ho(\'q\') == cp.ho(\'7\')))\
 {\
 cp.hide("Text_true_1");\
 cp.hide("Text_true_2");\
@@ -165,7 +165,7 @@ cp.hide("Text_true_4");\
 cp.hide("Text_true_5");\
 cp.hide("Text_true_6");\
 cp.show("Text_true_7");\
-cp.hide("Text_true_8");};if ((cp.ho(\'q\') == cp.ho(\'6\')))\
+cp.hide("Text_true_8");};if ((cp.ho(\'q\') == cp.ho(\'8\')))\
 {\
 cp.hide("Text_true_1");\
 cp.hide("Text_true_2");\
@@ -332,7 +332,7 @@ cp.hide("Text_False_4");\
 cp.hide("Text_False_5");\
 cp.show("Text_False_6");\
 cp.hide("Text_False_7");\
-cp.hide("Text_False_8");};if ((cp.ho(\'q\') == cp.ho(\'6\')))\
+cp.hide("Text_False_8");};if ((cp.ho(\'q\') == cp.ho(\'7\')))\
 {\
 cp.hide("Text_False_1");\
 cp.hide("Text_False_2");\
@@ -341,7 +341,7 @@ cp.hide("Text_False_4");\
 cp.hide("Text_False_5");\
 cp.hide("Text_False_6");\
 cp.show("Text_False_7");\
-cp.hide("Text_False_8");};if ((cp.ho(\'q\') == cp.ho(\'6\')))\
+cp.hide("Text_False_8");};if ((cp.ho(\'q\') == cp.ho(\'8\')))\
 {\
 cp.hide("Text_False_1");\
 cp.hide("Text_False_2");\
